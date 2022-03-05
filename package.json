@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamajo119/nucampsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kamajo119/nucampsite/issues"
+  },
+  "homepage": "https://github.com/kamajo119/nucampsite#readme"
 }
